@@ -20,7 +20,7 @@ This project analyzes the Procure-to-Pay (P2P) process using Power BI. It focuse
 - Total Amount
 
 ## 📈 Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="1411" height="793" alt="image" src="https://github.com/user-attachments/assets/d1b8eb4f-ddcd-4d96-b295-4d607e5cd57f" />
 
 ## 🛠 Tools Used
 - Power BI
